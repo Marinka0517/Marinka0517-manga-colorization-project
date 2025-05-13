@@ -1,1 +1,1 @@
-# Marinka0517-manga-colorization-project
+# manga-colorization-project
